@@ -1,2 +1,1 @@
-print('It')
-print('line pepson2')
+print('it')
