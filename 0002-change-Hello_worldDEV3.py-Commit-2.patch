@@ -1,0 +1,19 @@
+From cb210ffdd225f352114ba86fbe90327cc584ec3e Mon Sep 17 00:00:00 2001
+From: KLTIM <131452830+KLTIM@users.noreply.github.com>
+Date: Sun, 16 Nov 2025 00:18:37 +0300
+Subject: [PATCH 2/3] change Hello_worldDEV3.py(Commit 2)
+
+---
+ Hello_worldDEV3.py | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/Hello_worldDEV3.py b/Hello_worldDEV3.py
+index bb207ea..a55ac79 100644
+--- a/Hello_worldDEV3.py
++++ b/Hello_worldDEV3.py
+@@ -1 +1,2 @@
+ print('Commit 1 in dev3')
++print('Commit 2 in dev3')
+-- 
+2.51.1.windows.1
+
